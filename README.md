@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Contribution graphs don't mean a whole lot, but they are fun. Here's mine from [2020](MattUebel-2020.stl)
+
+Generate yours at https://skyline.github.com/
+
 <!--
 **MattUebel/MattUebel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
