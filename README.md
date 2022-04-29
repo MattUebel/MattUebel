@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Contribution graphs don't mean a whole lot, but they are fun. Here's mine from [2020](MattUebel-2020.stl)
+Professionally I work with Splunk, collecting data, and moving data around.
 
-Generate yours at https://skyline.github.com/
+Apirationally I seek to continually learn, grow, and participate in a community of knowledge sharing in order to make the world a better place (and ultimately get us off this rock 😅).
 
 <!--
 **MattUebel/MattUebel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
