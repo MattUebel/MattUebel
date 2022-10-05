@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Professionally I work with Splunk, collecting data, and moving data around.
+Professionally I work with telemetry, collecting data, and moving data around.
 
 Apirationally I seek to continually learn, grow, and participate in a community of knowledge sharing in order to make the world a better place (and ultimately get us off this rock 😅).
 
